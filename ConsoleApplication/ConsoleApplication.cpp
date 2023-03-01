@@ -8,9 +8,6 @@ int main()
     std::cout << "Hello World!\n";
     std::cout << "just another test from PC\n";
     std::cout << "here a test from the browser online\n";
-    std::cout << "Hello World!\n";
-    std::cout << "just another test from PC\n";
-    std::cout << "here a test from the browser online\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
