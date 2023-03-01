@@ -3,6 +3,18 @@
 
 #include <iostream>
 
+void MyFirstMethod() {
+    //do something
+}
+
+void MySecondMethod() {
+    //do nothing
+}
+
+void MyThirdMethd() {
+    //do what
+}
+
 int main()
 {
     std::cout << "Hello World!\n";
